@@ -1,7 +1,10 @@
+import Countries from './components/Countries';
+
 const App = () => {
     return (
         <div>
-            Hello Countries
+            <Countries />
+
         </div>
     );
 }
